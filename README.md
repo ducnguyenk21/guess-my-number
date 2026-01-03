@@ -13,3 +13,6 @@ Luyện tập tư duy logic và xử lý DOM trong JavaScript.
 
 ## Công nghệ sử dụng:
 - HTML5, CSS3, JavaScript (ES6).
+
+##
+https://ducnguyenk21.github.io/guess-my-number/
